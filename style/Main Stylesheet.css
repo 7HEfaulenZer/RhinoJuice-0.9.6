@@ -748,21 +748,21 @@ textarea{
   margin: 30px;
 }
 #enjoy{
-  font-family: 'Amethyst';
+  font-family: 'Lobster' 'Amethyst';
 }
 
 a{
-  font-family: 'Century Gothic';
-  font-weight: lighter;
+  font-family: 'Poppins' 'Century Gothic';
+  font-weight: bolder;
   font-size: 1em;
 }
 p{
-  font-family: 'Century Gothic';
-  font-weight: bold;
+  font-family: 'Poppins' 'Century Gothic';
+  font-weight: bolder;
   font-size: 1em;
 }
 h3,h2{
-  font-family: 'Century Gothic';
+  font-family: 'Poppins' 'Century Gothic';
   font-weight: lighter;
   font-size: 1.5em;
 }
