@@ -748,26 +748,26 @@ textarea{
   margin: 30px;
 }
 #enjoy{
-  font-family: 'Lobster' 'Amethyst';
+  font-family: 'Lobster';
 }
 
 a{
-  font-family: 'Poppins' 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: bolder;
   font-size: 1em;
 }
 p{
-  font-family: 'Poppins' 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: bolder;
   font-size: 1em;
 }
 h3,h2{
-  font-family: 'Poppins' 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: lighter;
   font-size: 1.5em;
 }
 h1{
-  font-family: 'Lobster', 'Century Gothic';
+  font-family: 'Lobster';
   font-weight: lighter;
   font-size: 2em;
 }
