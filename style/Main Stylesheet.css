@@ -3,7 +3,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: 'Century Gothic';
+    font-family: 'Poppins';
   }
   *,
   *::before,
@@ -186,7 +186,7 @@ section{
     padding: 10px;
     color: red;
     background: black;
-    font-family: 'Century Gothic';
+    font-family: 'Poppins';
     transition: .3s ease;
     transition-delay: 1s;
     z-index: 1000;
