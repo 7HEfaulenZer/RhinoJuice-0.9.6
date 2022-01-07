@@ -25,7 +25,6 @@
   body {
     background: rgb(192, 187, 156);
     height: 100%;
-    font-family: 'Poppins';
   }
 /*-----------------------------------------------------------------------------*/
   .page-content{
@@ -36,8 +35,6 @@
     position: sticky;
     top: 0;
     display: flex;
-    font-family: 'Poppins';
-    font-weight: lighter;
     justify-content: space-around;
     align-items: center;
     height: 4rem;
