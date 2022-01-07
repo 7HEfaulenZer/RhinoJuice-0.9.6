@@ -37,6 +37,7 @@
     top: 0;
     display: flex;
     font-family: 'Poppins';
+    font-weight: lighter;
     justify-content: space-around;
     align-items: center;
     height: 4rem;
