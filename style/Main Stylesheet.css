@@ -56,12 +56,9 @@
     cursor: pointer;
   }
 
-
   .logo{
     z-index: 100000;
   }
-
-
 
 /*-----------------------------------------------------------------------------*/
 
@@ -385,7 +382,7 @@ section{
     font-size: 25px;
     letter-spacing: 4px;
     transition: all 0.4s ease;
-    font-family: 'Century Gothic';
+    font-family: 'Poppins';
     font-weight: lighter;
     border-radius: 35px;
   }
