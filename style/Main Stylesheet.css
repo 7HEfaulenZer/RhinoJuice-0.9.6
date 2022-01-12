@@ -65,7 +65,7 @@
   background-image: url(../img/Start.jpg);
   background-repeat: no-repeatt;
   background-position: top;
-  background-size: 120%;
+  background-size: cover;
   filter: contrast(1.2) brightness(.75);
   display: flex;
   justify-content: center;
