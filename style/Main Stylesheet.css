@@ -63,6 +63,7 @@
   width: 100%;
   height: calc(100vh - 7rem);
   background-image: url(../img/Start.jpg);
+  background-repeat: no-repeatt;
   background-position: top;
   background-size: 120%;
   filter: contrast(1.2) brightness(.75);
