@@ -328,8 +328,7 @@ section{
     height: 300px;
     margin-bottom: 30px;
     box-shadow:  0 0px rgba(56, 56, 56, 0.514), 15px 15px 25px rgba(59, 59, 59, 0.507);
-  } 
-
+  }
 /*------------------------*/
   .cardBack{
     position: absolute;
