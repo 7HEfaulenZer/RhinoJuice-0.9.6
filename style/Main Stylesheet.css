@@ -712,6 +712,10 @@ textarea{
   font-size: 1.25rem;
   font-family: 'Poppins';
 }
+.link{
+  text-decoration: underline;
+  color: white;
+}
 
 .heading{
   position: sticky;
