@@ -42,7 +42,7 @@
     transition: .4s ease;
     width: 100%;
     z-index: 100000000;
-    box-shadow:  0px 5px 20px rgba(56, 56, 56, 0.514);
+    box-shadow:  0px 10px 20px rgba(56, 56, 56, 0.514);
   }
 
   .logo svg{
